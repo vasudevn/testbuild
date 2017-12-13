@@ -1,4 +1,4 @@
-changes made by vmuser user 1st time
+changes made by ansible user 1st time
 
 This file written by ansible user
 This file was modified  by vmaws user
